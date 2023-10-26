@@ -8,4 +8,4 @@
 
 
 Adding files using cmd line <br>
-used vs code <br>
+used vs code to upload files directly in remote<br>
