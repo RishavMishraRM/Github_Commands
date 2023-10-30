@@ -19,3 +19,9 @@ git config --global user.name <br>
 
 git config --global user.email “rishav.mishra.rkm@gmail.com” <br>
 git config --global user.email <br>
+
+File status beside them
+
+U - Untracked
+A - Added
+M - Modified
