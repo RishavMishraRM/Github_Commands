@@ -8,4 +8,14 @@
 
 
 Adding files using cmd line <br>
-used vs code to upload files directly in remote<br>
+used vs code to upload files directly in remote<be>
+
+
+Commands
+
+git config --global user.name “Rishav Mishra”
+git config --global user.name
+
+
+git config --global user.email “rishav.mishra.rkm@gmail.com”
+git config --global user.email
